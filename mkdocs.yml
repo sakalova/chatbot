@@ -1,0 +1,13 @@
+site_name: Open Domain Chatbot
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings
+
+nav:
+  - index.md
+  - How-To Guides: how-to-guides.md
+  - reference.md
+  - explanation.md

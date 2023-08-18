@@ -1,3 +1,10 @@
+"""
+Help on module main:
+
+NAME
+    main - This module runs application.
+"""
+
 import sys
 
 from PyQt6.QtWidgets import QApplication
