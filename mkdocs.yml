@@ -8,6 +8,4 @@ plugins:
 
 nav:
   - index.md
-  - How-To Guides: how-to-guides.md
-  - reference.md
-  - explanation.md
+  - Code Reference: code_reference.md

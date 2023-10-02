@@ -5,8 +5,8 @@ NAME
     gui - This module provides a class for building AI chat bot user interface.
 
 The module contains the following class:
-- `ChatBotWindow() - This class is inherited from class QMainWindow
-and provides the main application window.`
+- `ChatBotWindow()` - This class is inherited from class QMainWindow
+and provides the main application window.
 """
 
 import threading
